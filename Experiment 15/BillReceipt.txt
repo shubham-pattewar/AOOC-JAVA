@@ -1,0 +1,15 @@
+       Restaurant Bill Receipt
+Date & Time : 13/05/2025 01:54:25
+----------------------------------------
+Item            Qty      Price
+----------------------------------------
+Pizza           2       Rs.300
+Burger          6       Rs.480
+Cold Drink      2       Rs.100
+----------------------------------------
+Total Items : 10
+Sub Total  : Rs.880
+GST (5%)   : Rs.44.00
+----------------------------------------
+Final Amount : Rs.924.00
+Thank you! Visit Again!
